@@ -1,5 +1,5 @@
 fn main() {
-    println!("This is main function.");
+    println!("This is main function about Functions");
     another_function();
     function_with_parament(6, 'd');
     statement_expression();
