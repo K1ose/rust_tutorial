@@ -1,7 +1,7 @@
 fn main() {
     println!("This is main function about Functions");
     another_function();
-    function_with_parament(6, 'd');
+    function_with_parameter(6, 'd');
     statement_expression();
     let x = function_return_five(4);
     println!("{x}")
@@ -24,8 +24,8 @@ fn another_function() {
     println!("Show another function.")
 }
 
-fn function_with_parament(p: i32, c: char) {
-    println!("Your parament/argument is {p} and {c}");
+fn function_with_parameter(p: i32, c: char) {
+    println!("Your parameter/argument is {p} and {c}");
 }
 
 fn function_return_five(x: i32) -> i32 {

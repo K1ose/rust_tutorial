@@ -105,7 +105,7 @@ fn use_more_slice() {
     println!("{}", word);
 }
 
-/// There is no difference other than the parament type
+/// There is no difference other than the parameter type
 fn get_first_word_with_more_string(s: &str) -> &str {
     let bytes = s.as_bytes();
 
