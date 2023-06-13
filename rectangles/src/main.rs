@@ -31,8 +31,8 @@ fn main() {
     get_volume_by_method();
     get_volume_by_method_with_more_p();
     Cuboid::not_a_method();
-    let my_cube = Cuboid::cube(10);
-    println!("my_cube:{:#?}", my_cube); // use constructor function to generate a cube with length of 10
+    let my_cube = Cuboid::cube(10); // use constructor function to generate a cube with length of 10
+    println!("my_cube:{:#?}", my_cube);
 }
 
 /// cb is a instance of cuboid, and also a immutable borrowing parameter in get_volume()
