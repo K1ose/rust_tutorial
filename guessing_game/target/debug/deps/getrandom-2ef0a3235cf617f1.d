@@ -1,0 +1,11 @@
+/data/ws/project/rust_tutorial/guessing_game/target/debug/deps/getrandom-2ef0a3235cf617f1.rmeta: /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/lib.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error_impls.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util_libc.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/use_file.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/linux_android.rs
+
+/data/ws/project/rust_tutorial/guessing_game/target/debug/deps/getrandom-2ef0a3235cf617f1.d: /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/lib.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error_impls.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util_libc.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/use_file.rs /home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/linux_android.rs
+
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/lib.rs:
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error.rs:
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util.rs:
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/error_impls.rs:
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/util_libc.rs:
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/use_file.rs:
+/home/cmcc/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.9/src/linux_android.rs:

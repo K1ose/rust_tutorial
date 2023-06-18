@@ -91,6 +91,25 @@ fn enum_message() {
     m3.call();
 }
 
+/// <T> syntax is a feature of Rust called <u>generic type parameter</u>
+enum Option<T> {
+    None,
+    Some(T),
+}
+
+fn none_some() {
+    // we have specified a value inside the Some() variant, so Rust can infer these types.
+    let some_number = Some(5);
+    let some_char = Some('e');
+
+    // we need to annotate the overall `Option` type because Rust can't infer the type by looking only at a `None` type.
+    let absent_number: std::option::Option<i32> = None;
+
+    let exact_number = 5;
+    // We would get an error message because Option<i32> is not i32. We need to convert an Option<i32> to a <T> before operations. You need to handle each variant to use an Option<T> value.
+    // let sum = some_number + exact_number;
+}
+
 fn main() {
     println!("This chapter is about Enumeration.");
     enum_value();
