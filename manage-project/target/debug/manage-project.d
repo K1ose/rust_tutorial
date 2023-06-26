@@ -1,0 +1,1 @@
+/data/cmcc/project/Rust/rust_tutorial/manage-project/target/debug/manage-project: /data/cmcc/project/Rust/rust_tutorial/manage-project/src/garden/vegetables.rs /data/cmcc/project/Rust/rust_tutorial/manage-project/src/garden.rs /data/cmcc/project/Rust/rust_tutorial/manage-project/src/main.rs
