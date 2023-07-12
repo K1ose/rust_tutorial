@@ -74,7 +74,7 @@ mod back_of_house {
     fn cook_order() {}
 }
 
-use crate::front_of_house::hosting;
+// use crate::front_of_house::hosting;
 
 pub fn eat_at_restaurant() {
     // 绝对路径
@@ -94,6 +94,17 @@ pub fn eat_at_restaurant() {
     hosting::add_to_waitlist();
 }
 
+/// a usaul usage
+use std::collections::HashMap as HashMap;
+
+/// a usaul usage of HashMap
+fn use_usage() {
+    let mut map = HashMap::new();
+    map.insert(1, 2);
+}
+
+pub use crate::front_of_house::hosting;
+// Original code
 // pub fn add(left: usize, right: usize) -> usize {
 //     left + right
 // }
